@@ -1,5 +1,5 @@
 # Price-Comparison-of-Product
-The prices of the products are compared on the Amazon and flipkart site.
+The prices of the products are compared using python on amazon and flipkart.
 
 
 
