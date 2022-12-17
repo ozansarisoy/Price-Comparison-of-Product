@@ -4,4 +4,10 @@ The prices of the products are compared on the Amazon and flipkart site.
 
 
 
+
+
+
+
+
+
 In this project, you can compare the prices of the products on amazon and flipkart sites and send them to yourself by e-mail.
